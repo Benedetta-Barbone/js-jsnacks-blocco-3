@@ -7,3 +7,7 @@ Fasi
 3. verificare se nell'array di frutta c'è il cocomero:
    - se c'è stampiamo: "Trovato! Devo solo preparare il cocktail."
    - se non lo trovo: "Oh no, devo uscire a comprare il cocomero!"
+
+
+
+   
