@@ -4,8 +4,18 @@ const numeroElementi = Number.parseInt(prompt ('quanti elementi vuoi inserire?')
 
 for (index = 0; index<numeroElementi; index++){
     const numeriRandom = Math.floor(Math.random()*100 + 1);
-    const codaArrey= [numeriRandom];
-    console.log(codaArrey);
+    codaArrey.push(numeriRandom)    
 }
+
+console.log(codaArrey)
+
+
+
+for (index=0; index<5; index++){
+   const numeriRimossi = codaArrey.pop();
+   console.log(numeriRimossi);
+}
+
+
 
 
