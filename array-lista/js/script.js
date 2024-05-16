@@ -11,4 +11,8 @@
   fruttaNelFrigo.push('pesca');
 
   console.log(fruttaNelFrigo);
+  
+
+  
+
 
