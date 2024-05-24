@@ -65,6 +65,6 @@ listaPersone.forEach ((element, index)=>{
   if (minori < 18){
     minori.push('non può guidare!');
   }
-  console.log ('nome'+ element.nome, 'cognome'+ element.cognome, 'età'+ element.età,minori );
+  console.log ('nome'+ element.nome, 'cognome'+ element.cognome, 'età'+ element.età, minori );
 });
 
